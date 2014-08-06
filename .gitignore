@@ -1,0 +1,12 @@
+.DS_Store
+Library
+Temp
+*.pidb
+*.unityproj
+*.userprefs
+*.suo
+*.csproj
+*.sln
+
+Debug
+Release
