@@ -1,0 +1,11 @@
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-UnityScript.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-UnityScript.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEditor.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEngine.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEngine.xml
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEditor.xml
+G:\LevelTest\obj\Debug\UnityVS.LevelTest.UnityScript.unityprojResolveAssemblyReference.cache
+G:\LevelTest\obj\Debug\Assembly-UnityScript.dll
+G:\LevelTest\obj\Debug\Assembly-UnityScript.pdb

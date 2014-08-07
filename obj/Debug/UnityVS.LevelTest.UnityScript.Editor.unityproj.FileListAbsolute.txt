@@ -1,0 +1,1 @@
+G:\LevelTest\obj\Debug\UnityVS.LevelTest.UnityScript.Editor.unityprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+G:\LevelTest\obj\Debug\UnityVS.LevelTest.CSharp.Editor.csprojResolveAssemblyReference.cache
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-CSharp-Editor.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Bridge.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\SyntaxTree.VisualStudio.Unity.Messaging.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEditor.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEngine.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-UnityScript-firstpass.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-UnityScript.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEngine.xml
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEditor.xml
+G:\LevelTest\obj\Debug\Assembly-CSharp-Editor.dll
+G:\LevelTest\obj\Debug\Assembly-CSharp-Editor.pdb

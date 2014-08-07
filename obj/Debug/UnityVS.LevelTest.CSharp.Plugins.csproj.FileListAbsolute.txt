@@ -1,0 +1,9 @@
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\Assembly-CSharp-firstpass.pdb
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEditor.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEngine.dll
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEngine.xml
+G:\LevelTest\Temp\UnityVS_bin\Debug\UnityEditor.xml
+G:\LevelTest\obj\Debug\UnityVS.LevelTest.CSharp.Plugins.csprojResolveAssemblyReference.cache
+G:\LevelTest\obj\Debug\Assembly-CSharp-firstpass.dll
+G:\LevelTest\obj\Debug\Assembly-CSharp-firstpass.pdb
